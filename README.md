@@ -84,4 +84,9 @@ Backend Integration  ████████████░░░░░░░�
 
 ---
 
-## 📚 What I'm Learning
+## 🎯 My Goals
+Learn. Build. Improve. Repeat. 🚀
+
+My goal is to become a strong Full-Stack Developer
+by continuously building real-world projects and
+improving my problem-solving skills.
