@@ -1,9 +1,7 @@
 <div align="center">
 
 <img src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/789432073_2511293392689345_1348331678337551177_n.jpg?stp=dst-jpg_tt6&cstp=mx1962x793&ctp=s1962x793&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHIDTUWSic6czii-iqnOG0MpnDoL5WovHKmcOgvlai8cn2SnJW9MSlF74ptfddSl9L-tQhrFXGX6c7CPaH7WZak&_nc_ohc=NSNzOeMl3hQQ7kNvwFq-zNI&_nc_oc=Adq4iNxcfOR9W958NeBwdG_u-xWZmNlecoqkb0tXr2Fu4IGowYoxqrBL-x60x_cJRhk&_nc_zt=23&_nc_ht=scontent.fdac31-1.fna&_nc_gid=nBBB_cA9o6pBxOz01XFrYw&_nc_ss=7b2a8&oh=00_AQL_sY0xnQhB6ovVLG4SSe5thQE0ZRfTVkJVj3dHw6ZDdw&oe=6A9B6DD1" alt="Md Bijoy Hasan - Frontend Developer" width="100%">
-
 <br><br>
-
 # 👋 Hi, I'm Md Bijoy Hasan
 
 ### 💻 Frontend Developer | React.js Enthusiast
@@ -85,31 +83,6 @@ My goal is to become a strong **Full-Stack Developer**.
 > **Learn • Build • Improve • Repeat 🚀**
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BIJOY-HASAN&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIJOY-HASAN&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Contribution
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BIJOY-HASAN&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
