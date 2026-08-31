@@ -1,14 +1,14 @@
 <div align="center">
 
+<img src="./banner.png" alt="Md Bijoy Hasan - Frontend Developer" width="100%">
+
+<br><br>
+
 # 👋 Hi, I'm Md Bijoy Hasan
 
 ### 💻 Frontend Developer | React.js Enthusiast
 
 Building modern, responsive & user-friendly web applications 🚀
-
-<a href="https://github.com/BIJOY-HASAN">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-</a>
 
 </div>
 
@@ -17,14 +17,14 @@ Building modern, responsive & user-friendly web applications 🚀
 ## 👨‍💻 About Me
 
 I'm a passionate Frontend Developer from Bangladesh who enjoys
-turning ideas into clean and interactive web experiences.
+turning ideas into clean, interactive and user-friendly web experiences.
 
 - 🔭 Currently working on **React.js projects**
 - 🌱 Currently learning **Advanced React & Backend Integration**
 - 💡 Interested in **Frontend Development & Web Applications**
 - 🧩 Love solving programming problems
 - 🚀 Always trying to improve my coding skills
-- 📍 Bangladesh
+- 🇧🇩 Based in Bangladesh
 
 ---
 
@@ -46,8 +46,6 @@ A social-media inspired web application built with React.js.
 
 **Tech:** React.js • JavaScript • Tailwind CSS • REST API
 
-🔗 [View Repository](https://github.com/BIJOY-HASAN/facehook)
-
 ---
 
 ### 🎮 Tic Tac Toe
@@ -56,8 +54,6 @@ An interactive Tic Tac Toe game built while practicing
 React concepts and state management.
 
 **Tech:** React.js • JavaScript • CSS
-
-🔗 [View Repository](https://github.com/BIJOY-HASAN/tic-tac-toe)
 
 ---
 
@@ -68,18 +64,96 @@ React components, state management and modern UI.
 
 **Tech:** React.js • JavaScript • Tailwind CSS
 
-🔗 [View Repository](https://github.com/BIJOY-HASAN/task-board)
-
 ---
 
 ## 📚 What I'm Learning
 
-```text
-HTML & CSS           ████████████████████ 100%
-JavaScript           ██████████████████░░  90%
-React.js             ████████████████░░░░  80%
-Tailwind CSS         ████████████████░░░░  80%
-Git & GitHub         ███████████████░░░░░  75%
-Backend Integration  ████████████░░░░░░░░  60%
+- ⚛️ Advanced React.js
+- 🔄 State Management
+- 🔌 REST API Integration
+- 🔐 Authentication & Authorization
+- 🟢 Node.js & Express.js
+- 🗄️ Database Integration
+- 🚀 Full-Stack Development
 
+---
 
+## 🎯 My Goals
+
+My goal is to become a strong **Full-Stack Developer**.
+
+- 🚀 Build real-world projects
+- ⚛️ Master React.js
+- 🔌 Become confident with APIs
+- 🟢 Learn Node.js & Express.js
+- 🗄️ Learn database technologies
+- 🧠 Improve problem-solving skills
+- 🌱 Keep learning and improving every day
+
+> **Learn • Build • Improve • Repeat 🚀**
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BIJOY-HASAN&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIJOY-HASAN&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BIJOY-HASAN&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:nbijoy275@gmail.com">
+<img src="https://img.shields.io/badge/Email-nbijoy275%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/BIJOY-HASAN">
+<img src="https://img.shields.io/badge/GitHub-BIJOY--HASAN-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📧 **nbijoy275@gmail.com**
+
+🐙 **github.com/BIJOY-HASAN**
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for Visiting My Profile!
+
+Thanks for taking the time to visit my GitHub profile.
+
+⭐ Feel free to explore my repositories and projects.
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+</div>
