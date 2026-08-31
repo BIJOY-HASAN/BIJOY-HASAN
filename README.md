@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Md Bijoy Hasan - Frontend Developer" width="100%">
+<img src="[./banner.png](https://chatgpt.com/backend-api/estuary/content?id=file_000000000eb081fa85d4da0aff40bb09&ts=496720&p=fs&cid=1&sig=b9debe1b17abf9c9e0d2a4933f18980968c7795e1ad52260cbdd8991a6b74bc4&v=0)" alt="Md Bijoy Hasan - Frontend Developer" width="100%">
 
 <br><br>
 
