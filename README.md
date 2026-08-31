@@ -40,14 +40,6 @@ turning ideas into clean, interactive and user-friendly web experiences.
 
 ## 🚀 Featured Projects
 
-### 🌐 Facehook
-
-A social-media inspired web application built with React.js.
-
-**Tech:** React.js • JavaScript • Tailwind CSS • REST API
-
----
-
 ### 🎮 Tic Tac Toe
 
 An interactive Tic Tac Toe game built while practicing
@@ -138,9 +130,7 @@ My goal is to become a strong **Full-Stack Developer**.
 
 <div align="center">
 
-📧 **nbijoy275@gmail.com**
 
-🐙 **github.com/BIJOY-HASAN**
 
 </div>
 
