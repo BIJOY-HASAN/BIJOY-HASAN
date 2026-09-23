@@ -98,20 +98,6 @@ My goal is to become a strong **Full-Stack Developer**.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BIJOY-HASAN&show_icons=true&hide_border=true&count_private=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIJOY-HASAN&layout=compact&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
