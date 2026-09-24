@@ -124,11 +124,11 @@ My goal is to become a strong **Full-Stack Developer**.
 </div>
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BIJOY-HASAN&hide_border=true&area=true" />
+<img src="https://raw.githubusercontent.com/BIJOY-HASAN/BIJOY-HASAN/output/github-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
