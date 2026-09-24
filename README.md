@@ -1,13 +1,20 @@
 <div align="center">
 
-<img src="">
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4F46E5&height=200&section=header&text=Md%20Bijoy%20Hasan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# 👋 Hi, I'm Md Bijoy Hasan
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Improving+%F0%9F%9A%80" />
+
+<br><br>
 
 ### 💻 Frontend Developer | React.js & Next.js Developer
 
 Building modern, responsive & user-friendly web applications 🚀
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=BIJOY-HASAN&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
 
 </div>
 
@@ -98,6 +105,34 @@ My goal is to become a strong **Full-Stack Developer**.
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BIJOY-HASAN&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIJOY-HASAN&layout=compact&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=BIJOY-HASAN&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BIJOY-HASAN&hide_border=true&area=true" />
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -117,6 +152,8 @@ My goal is to become a strong **Full-Stack Developer**.
 <br>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:36BCF7&height=120&section=footer"/>
 
 </div>
 
