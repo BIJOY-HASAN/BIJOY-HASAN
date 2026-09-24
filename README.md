@@ -109,6 +109,7 @@ My goal is to become a strong **Full-Stack Developer**.
 
 <div align="center">
 
+<!-- GitHub Streak -->
 <img
   src="https://streak-stats.demolab.com?user=BIJOY-HASAN&theme=default&hide_border=true"
   alt="GitHub Streak"
@@ -116,10 +117,9 @@ My goal is to become a strong **Full-Stack Developer**.
 
 <br><br>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=BIJOY-HASAN&theme=github-compact&hide_border=true"
-  alt="GitHub Contribution Graph"
-/>
+<!-- Contribution Activity Graph -->
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BIJOY-HASAN&theme=github-compact&hide_border=true)](https://github.com/BIJOY-HASAN)
 
 </div>
 ---
