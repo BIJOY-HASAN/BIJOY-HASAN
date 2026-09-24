@@ -109,30 +109,19 @@ My goal is to become a strong **Full-Stack Developer**.
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=BIJOY-HASAN&show_icons=true&hide_border=true&count_private=true&rank_icon=github" 
-  alt="GitHub Stats"
-/>
-
-<br><br>
-
-<!-- Top Languages -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIJOY-HASAN&layout=compact&hide_border=true" 
-  alt="Top Languages"
-/>
-
-<br><br>
-
-<!-- GitHub Streak -->
-<img 
-  src="https://streak-stats.demolab.com?user=BIJOY-HASAN&hide_border=true" 
+<img
+  src="https://streak-stats.demolab.com?user=BIJOY-HASAN&theme=default&hide_border=true"
   alt="GitHub Streak"
 />
 
-</div>
+<br><br>
 
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=BIJOY-HASAN&theme=github-compact&hide_border=true"
+  alt="GitHub Contribution Graph"
+/>
+
+</div>
 ---
 
 ## 📈 Contribution Activity
