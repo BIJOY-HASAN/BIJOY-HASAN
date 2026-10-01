@@ -114,13 +114,6 @@ My goal is to become a strong **Full-Stack Developer**.
   src="https://streak-stats.demolab.com?user=BIJOY-HASAN&theme=default&hide_border=true"
   alt="GitHub Streak"
 />
-
-<br><br>
-
-<!-- Contribution Activity Graph -->
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BIJOY-HASAN&theme=github-compact&hide_border=true)](https://github.com/BIJOY-HASAN)
-
 </div>
 ---
 
